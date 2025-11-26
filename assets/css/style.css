@@ -28,7 +28,7 @@
   right: 0;
 }
 
-@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 .social {
   margin: 0 auto;
   width: auto;
@@ -175,7 +175,7 @@ blockquote * {
 /* main nav */
 
 nav {
-  background: linear-gradient(45deg, #f3edf0 0%, #edf2ef 100%);
+  background: #4286f4;
   box-shadow: none;
   height: 0;
 }
@@ -237,7 +237,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(16, 202, 56);
+  color:#4286f4;
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: linear-gradient(225deg, #4993ab 0%, #dedfd8 100%) repeat;
+  background: #4286f4 repeat;
   position: relative;
 }
 
@@ -367,7 +367,7 @@ h3 {
 .waves-effect.waves-blue .waves-ripple {
   /* The alpha value allows the text and background color
    of the button to still show through. */
-  background-color: rgba(33, 150, 243, 0.2);
+  background-color: #4286f4);
 }
 
 .card {
@@ -414,7 +414,7 @@ h3 {
 }
 
 #experience .card-action {
-  background-color: rgba(0, 0, 0, 0.02);
+  background-color: #4286f4;
   border: none;
 }
 
@@ -549,7 +549,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: #4286f4 !important;
 }
 
 /* .teal-text {
@@ -559,7 +559,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: ##4286f4 !important;
 }
 
 /* .teal {
