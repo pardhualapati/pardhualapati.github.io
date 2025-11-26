@@ -175,7 +175,7 @@ blockquote * {
 /* main nav */
 
 nav {
-  background: white;
+  background: linear-gradient(45deg, #f3edf0 0%, #edf2ef 100%);
   box-shadow: none;
   height: 0;
 }
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: linear-gradient(225deg, #4993ab 0%, #dedfd8 100%) repeat;
   position: relative;
 }
 
